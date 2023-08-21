@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Saundarya Subramaniam</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2149796/screenshots/18907911/media/f5bba56d8feb7031032daef3bda7b3e8.png?resize=400x300&vertical=center">
 - 🌱 I’m currently learning **python, c and c++**
 
 - 📫 How to reach me **saundaryasubramaniam@gmail.com**
